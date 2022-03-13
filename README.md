@@ -54,6 +54,18 @@ Environment Setting
 1. go to VS Code and Download: https://code.visualstudio.com/
 2. New file and save file on the folder that we want to save it.
 
+# Install - Python
+1. go to Extensions
+2. search Python and install
+3. search Code Runner
+4. click the gear button and click the setting and go down until we find Code Actions On Save.
+5. Press Edit in settings.json
+6. add this line => "code-runner.runInTerminal": true
+
+# Install and customize - Vim
+1. go to Extensions
+2. search Vim
+3. Ctrl + Shift + P => settings => click Preferences: Open Settings (JSON)
 ```
 
 
