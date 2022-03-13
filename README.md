@@ -43,3 +43,11 @@ Environment Setting
 1. echo "source /opt/ros/noetic/setup.bash" >> ~/.bashrc
 2. source ~/.bashrc
 ```
+
+
+
+
+### Exception
+#### 1. WSL 2
+[T1. WSL 2 Installation.pdf](https://github.com/ChicagoPark/Ubuntu/files/8239224/T1.WSL.2.Installation.pdf)
+
