@@ -28,3 +28,18 @@ https://www.youtube.com/watch?v=vqYfJow24L0
 3. ~/Downloads$ bash Anaconda3-2021.11-Linux-x86_64.sh
 
 ```
+
+### 5. ROS Noetic
+```bash
+Reference YouTube: https://www.youtube.com/watch?v=ZA7u2XPmnlo
+Noetic Web: http://wiki.ros.org/noetic/Installation/Ubuntu
+
+1. ~$ sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
+2. ~$ sudo apt-key adv --keyserver 'hkp://keyserver.ubuntu.com:80' --recv-key C1CF6E31E6BADE8868B172B4F42ED6FBAB17C654
+3. ~$ sudo apt update
+4. ~$ sudo apt install ros-noetic-desktop-full
+
+Environment Setting
+1. echo "source /opt/ros/noetic/setup.bash" >> ~/.bashrc
+2. source ~/.bashrc
+```
