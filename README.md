@@ -1,5 +1,5 @@
 # Ubuntu
-Ubuntu Installation, VS code
+Ubuntu Installation
 
 ### 1. Delete Ubuntu and Clean the SSD card
 
