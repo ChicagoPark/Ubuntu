@@ -20,3 +20,11 @@ Ubuntu: (main) https://youngil.tistory.com/100
 ```bash
 https://www.youtube.com/watch?v=vqYfJow24L0
 ```
+
+### 4. Install Anaconda
+```bash
+1. Go to Anaconda Web and press Download: https://www.anaconda.com/
+2. ~/Downloads$ sha256sum Anaconda3–2021.11–Linux–x86_64.sh
+3. ~/Downloads$ bash Anaconda3-2021.11-Linux-x86_64.sh
+
+```
