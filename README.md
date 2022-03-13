@@ -44,6 +44,17 @@ Environment Setting
 2. source ~/.bashrc
 ```
 
+### 6. Python - Window
+```bash
+1. go to Python org and Download: https://www.python.org/
+```
+
+### 7. Visual Studio Code - Window
+```bash
+1. go to VS Code and Download: https://code.visualstudio.com/
+2. New file and save file on the folder that we want to save it.
+
+```
 
 
 
