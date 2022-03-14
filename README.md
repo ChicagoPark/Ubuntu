@@ -44,9 +44,10 @@ Environment Setting
 2. source ~/.bashrc
 ```
 
-### 6. Python - Window
+### 6. Python - (1)Window (2)Ubuntu
 ```bash
-1. go to Python org and Download: https://www.python.org/
+1. Window: go to Python org and Download: https://www.python.org/
+2. Ubuntu: https://www.youtube.com/watch?v=Br2xt6B57SA
 ```
 
 ### 7. Visual Studio Code - Window
