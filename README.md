@@ -69,7 +69,8 @@ Environment Setting
 3. Ctrl + Shift + P => settings => click Preferences: Open Settings (JSON)
 ```
 
-
+### 8. PyTorch / CUDA
+reference: https://varhowto.com/install-pytorch-ubuntu-20-04/
 
 ### Exception
 #### 1. WSL 2
