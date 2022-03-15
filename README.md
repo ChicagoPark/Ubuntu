@@ -68,8 +68,12 @@ Environment Setting
 2. search Vim
 3. Ctrl + Shift + P => settings => click Preferences: Open Settings (JSON)
 ```
+### 8. CUDA
+```bash
+reference web to remove and install CUDA and cuDNN: https://wooriel.tistory.com/53
+```
 
-### 8. PyTorch / CUDA
+### 9. PyTorch
 reference: https://varhowto.com/install-pytorch-ubuntu-20-04/
 
 ### Exception
