@@ -72,7 +72,7 @@ Environment Setting
 ```bash
 reference web to remove and install CUDA and cuDNN: https://wooriel.tistory.com/53
 ```
-![1](https://user-images.githubusercontent.com/73331241/158287124-0cd3af21-99d0-4ec1-85ff-62f98b8ca206.png)
+<img width="30" alt="IMG" src="https://user-images.githubusercontent.com/73331241/158287222-1899b183-d0d5-4abd-8f5c-fab63c9df186.png">
 
 
 ### 9. PyTorch
