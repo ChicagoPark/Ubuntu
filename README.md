@@ -77,6 +77,7 @@ reference web to remove and install CUDA and cuDNN: https://wooriel.tistory.com/
 
 ### 9. PyTorch
 reference: https://varhowto.com/install-pytorch-ubuntu-20-04/
+reference: https://wooriel.tistory.com/40
 
 ### Exception
 #### 1. WSL 2
