@@ -72,6 +72,8 @@ Environment Setting
 ```bash
 reference web to remove and install CUDA and cuDNN: https://wooriel.tistory.com/53
 ```
+![1](https://user-images.githubusercontent.com/73331241/158287124-0cd3af21-99d0-4ec1-85ff-62f98b8ca206.png)
+
 
 ### 9. PyTorch
 reference: https://varhowto.com/install-pytorch-ubuntu-20-04/
