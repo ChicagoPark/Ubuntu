@@ -44,6 +44,22 @@ Environment Setting
 2. source ~/.bashrc
 ```
 
+### 6. chicago_ws
+```bash
+~$ mkdir -p ~/catkin_ws/src
+
+~$ cd ~/catkin_ws/src
+
+~/catkin_wc/src$ catkin_init_workspace
+
+~/catkin_wc/src$ cd ..
+
+pip install -U rosdep rosinstall_generator wstool rosinstall six vcstools
+
+~/catkin_ws$ catkin_make
+```
+
+
 ### 6. Python - (1)Window (2)Ubuntu
 ```bash
 1. Window: go to Python org and Download: https://www.python.org/
