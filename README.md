@@ -89,7 +89,7 @@ pip install -U rosdep rosinstall_generator wstool rosinstall six vcstools
 reference web to remove and install CUDA and cuDNN: https://wooriel.tistory.com/53
 ```
 <img width="30" alt="IMG" src="https://user-images.githubusercontent.com/73331241/158287222-1899b183-d0d5-4abd-8f5c-fab63c9df186.png">
-
+https://stackoverflow.com/questions/56431461/how-to-remove-cuda-completely-from-ubuntu
 
 ### 9. PyTorch
 reference: https://varhowto.com/install-pytorch-ubuntu-20-04/
