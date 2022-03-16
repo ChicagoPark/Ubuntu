@@ -14,6 +14,9 @@ Ubuntu Installation
 ```bash
 Ubuntu: (main) https://youngil.tistory.com/100
         (reference) https://dora-guide.com/ubuntu-download/
+        
+Alienware setting
+1. Booting Bios Setup: https://www.youtube.com/watch?v=0nA4xU1Nr3g
 ```        
 
 ### 3. Ubuntu Korean Setting
