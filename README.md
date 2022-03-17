@@ -105,3 +105,4 @@ reference: https://wooriel.tistory.com/40
 #### 1. WSL 2
 [T1. WSL 2 Installation.pdf](https://github.com/ChicagoPark/Ubuntu/files/8239224/T1.WSL.2.Installation.pdf)
 
+#### 2. Google Calendar: https://blog.naver.com/hongganz/222499476158
