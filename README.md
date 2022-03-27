@@ -66,6 +66,11 @@ pip install -U rosdep rosinstall_generator wstool rosinstall six vcstools
 # https://answers.ros.org/question/353111/following-installation-instructions-catkin_make-generates-a-cmake-error/
 ```
 
+### 7. package folder inside of the workspace
+```bash
+http://wiki.ros.org/ROS/Tutorials/CreatingPackage
+```
+
 
 ### 6. Python - (1)Window (2)Ubuntu
 ```bash
