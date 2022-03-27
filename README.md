@@ -68,7 +68,9 @@ pip install -U rosdep rosinstall_generator wstool rosinstall six vcstools
 
 ### 7. package folder inside of the workspace
 ```bash
-http://wiki.ros.org/ROS/Tutorials/CreatingPackage
+reference: http://wiki.ros.org/ROS/Tutorials/CreatingPackage
+
+~/chicago_ws/src$ catkin_create_pkg first_pkg std_msgs rospy roscpp cv_bridge pcl_conversions pcl_ros sensor_msgs visualization_msgs image_transport
 ```
 
 
