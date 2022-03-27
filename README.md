@@ -60,6 +60,10 @@ Environment Setting
 pip install -U rosdep rosinstall_generator wstool rosinstall six vcstools
 
 ~/catkin_ws$ catkin_make
+
+# Error
+# Unable to find either executable 'empy' or Python module 'em'...  try
+# https://answers.ros.org/question/353111/following-installation-instructions-catkin_make-generates-a-cmake-error/
 ```
 
 
