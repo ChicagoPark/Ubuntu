@@ -112,6 +112,9 @@ When nvidia-smi is not connected even though nvidia is setted on PC, change the 
 reference: https://varhowto.com/install-pytorch-ubuntu-20-04/
 reference: https://wooriel.tistory.com/40
 
+### 10. python pcl
+reference: https://issueantenna.com/repo/lianghongzhuo/pointnetgpd/issues/47
+
 ### Exception
 #### 1. WSL 2
 [T1. WSL 2 Installation.pdf](https://github.com/ChicagoPark/Ubuntu/files/8239224/T1.WSL.2.Installation.pdf)
