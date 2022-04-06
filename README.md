@@ -114,6 +114,25 @@ reference: https://wooriel.tistory.com/40
 
 ### 10. python pcl
 reference: https://issueantenna.com/repo/lianghongzhuo/pointnetgpd/issues/47
+```bash
+SOLVED ubuntu 20.04
+
+created conda environment with python=3.6 numpy=1.19.2 cython and activate the environment
+sudo apt-get update
+sudo apt-get install pcl-tools
+sudo apt-get install libpcl-dev -y
+conda config --add channels conda-forge
+conda install -c sirokujira python-pcl
+conda install -c jithinpr2 gtk3
+conda install -y ipython
+
+Then, go to your anaconda environment lib folder ( cd ~/anaconda3/envs/YOUR_ENV_NAME/lib)
+and execute following 4 commands:
+ln -s libboost_system.so.1.64.0 libboost_system.so.1.54.0
+ln -s libboost_filesystem.so.1.64.0 libboost_filesystem.so.1.54.0
+ln -s libboost_thread.so.1.64.0 libboost_thread.so.1.54.0
+ln -s libboost_iostreams.so.1.64.0 libboost_iostreams.so.1.54.0
+```
 
 ### Exception
 #### 1. WSL 2
