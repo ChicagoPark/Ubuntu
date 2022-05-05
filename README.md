@@ -98,7 +98,7 @@ reference: http://wiki.ros.org/ROS/Tutorials/CreatingPackage
 2. search Vim
 3. Ctrl + Shift + P => settings => click Preferences: Open Settings (JSON)
 ```
-### 8. CUDA
+### 8-1. CUDA-Linux
 ```bash
 reference web to remove and install CUDA and cuDNN: https://wooriel.tistory.com/53
 
@@ -107,6 +107,11 @@ remove all of it: https://stackoverflow.com/questions/56431461/how-to-remove-cud
 When nvidia-smi is not connected even though nvidia is setted on PC, change the security boot option to disable.
 ```
 <img width="30" alt="IMG" src="https://user-images.githubusercontent.com/73331241/158287222-1899b183-d0d5-4abd-8f5c-fab63c9df186.png">
+
+### 8-2. CUDA-Windows
+```bash
+reference web: https://www.youtube.com/watch?v=GMSjDTU8Zlc
+```
 
 ### 9. PyTorch
 reference: https://varhowto.com/install-pytorch-ubuntu-20-04/
